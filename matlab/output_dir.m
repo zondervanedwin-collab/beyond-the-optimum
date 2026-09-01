@@ -1,12 +1,15 @@
 function outdir = output_dir()
-%OUTPUT_DIR Return/create a figures folder next to the MATLAB scripts.
+%OUTPUT_DIR Return/create the repository-level figures folder.
 %
-% This avoids problems when MATLAB's Current Folder is not the same folder
-% as main.m.
+% The MATLAB source files are stored in /matlab and generated figures
+% are written to the sibling /figures directory. This works irrespective
+% of MATLAB's Current Folder.
 
 thisFile = mfilename('fullpath');
 scriptDir = fileparts(thisFile);
-outdir = fullfile(scriptDir, 'figures');
+repoDir = fileparts(scriptDir);
+
+outdir = fullfile(repoDir, 'figures');
 
 if ~exist(outdir, 'dir')
     [ok,msg] = mkdir(outdir);
