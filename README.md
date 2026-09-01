@@ -2,7 +2,7 @@
 
 ## Chemical Engineering Decisions with Multiple Objectives and Uncertainty
 
-This repository contains the MATLAB teaching example developed for the keynote:
+This repository contains the MATLAB teaching example developed for the keynote at ARAMCO (October 2026):
 
 **Beyond the Optimum: Chemical Engineering Decisions with Multiple Objectives and Uncertainty**
 
