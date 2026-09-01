@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this teaching package, please cite it as below."
+
+title: "Beyond the Optimum: Chemical Engineering Decisions with Multiple Objectives and Uncertainty"
+
+type: software
+
+authors:
+  - family-names: "Zondervan"
+    given-names: "Edwin"
+
+affiliation: "University of Twente"
+
+date-released: "2026-09-01"
+
+abstract: >
+  A MATLAB teaching example for superstructure-based process design,
+  multi-objective optimization, Pareto analysis, epsilon-constraint
+  optimization, decision-making under uncertainty, and minimax-regret
+  analysis using a simplified low-carbon methanol process example.
+
+keywords:
+  - process systems engineering
+  - superstructure optimization
+  - mathematical programming
+  - multi-objective optimization
+  - Pareto optimization
+  - epsilon-constraint method
+  - uncertainty
+  - minimax regret
+  - methanol
+  - MATLAB
+
+license: MIT
