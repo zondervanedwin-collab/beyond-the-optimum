@@ -6,7 +6,7 @@
 
 **Beyond the Optimum** is a MATLAB teaching package for exploring how chemical engineering decisions emerge from process models, superstructures, multiple objectives, and uncertainty.
 
-The example was developed for the keynote:
+The example was developed for the keynote that I delivered at ARAMCO in October 2026:
 
 **Beyond the Optimum: Chemical Engineering Decisions with Multiple Objectives and Uncertainty**
 
