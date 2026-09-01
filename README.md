@@ -2,6 +2,8 @@
 
 ## Chemical Engineering Decisions with Multiple Objectives and Uncertainty
 
+![Beyond the Optimum](assets/beyond-the-optimum-banner.png)
+
 This repository contains the MATLAB teaching example developed for the keynote at ARAMCO (October 2026):
 
 **Beyond the Optimum: Chemical Engineering Decisions with Multiple Objectives and Uncertainty**
