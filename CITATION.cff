@@ -8,8 +8,7 @@ type: software
 authors:
   - family-names: "Zondervan"
     given-names: "Edwin"
-
-affiliation: "University of Twente"
+    affiliation: "University of Twente"
 
 date-released: "2026-09-01"
 
