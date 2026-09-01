@@ -3,8 +3,8 @@
 
 clear; clc; close all;
 
-% Make sure figures are written next to these MATLAB files, irrespective of
-% MATLAB's Current Folder.
+% Make sure figures are written to the repository-level figures folder,
+% irrespective of MATLAB's Current Folder.
 figdir = output_dir();
 fprintf('Figures will be written to:\n%s\n\n', figdir);
 
