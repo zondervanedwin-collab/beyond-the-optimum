@@ -108,7 +108,8 @@ beyond-the-optimum/
 │
 └── docs/
     ├── Beyond_the_Optimum_Technical_Companion.pdf
-    └── Beyond_the_Optimum_Technical_Companion_v2.docx
+    ├── Beyond_the_Optimum_Technical_Companion_v2.docx
+    └── Beyond_the_Optimum_presentation.pdf
 ```
 
 ---
