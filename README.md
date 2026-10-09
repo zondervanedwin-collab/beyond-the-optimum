@@ -344,6 +344,8 @@ It contains:
 PDF:
 
 `docs/Beyond_the_Optimum_Technical_Companion.pdf`
+`docs/Beyond_the_Optimum_Technical_Presentation.pdf`
+
 
 An editable Word version is also provided.
 
