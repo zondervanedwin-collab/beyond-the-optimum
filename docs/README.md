@@ -13,3 +13,4 @@ The main companion document explains:
 - uncertainty scenarios
 - minimax-regret decision making
 - the structure of the MATLAB implementation
+- PDF of the powerpoint presentation
